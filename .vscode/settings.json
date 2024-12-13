@@ -61,4 +61,5 @@
     "v-ripple"
   ],
   "vscodeCustomCodeColor.highlightValueColor": "#b392f0",
+  "vue-i18n.i18nPaths": "locales",
 }
